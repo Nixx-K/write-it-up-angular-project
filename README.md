@@ -1,7 +1,7 @@
-# SocialApp
-Social network made with Angular, Spring Boot (Java), Keycloak and MySQL.  
+# Write It UP
+Social network for writers and readers made with Angular, Spring Boot (Java), Keycloak and MySQL.  
 
-This application allows:
+This application allows to:
 - Create an account
 - Modify your profile picture and other data
 - Create posts
